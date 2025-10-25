@@ -1,4 +1,4 @@
-# OpS Game Engine
+# OpS™ Game Engine
 OpS Open Source Non-Commercial License v1.0
 Copyright (c) 2025 Tamás Szuszán
 
